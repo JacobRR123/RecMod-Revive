@@ -4488,8 +4488,8 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [4229625709],
-    "Hosts": [],
+    "CoOwners": [],
+    "Hosts": [4229625709],
     "CheerCount": 1,
     "FavoriteCount": 1,
     "VisitCount": 1,
@@ -4505,7 +4505,7 @@
       "RoomId":2,
       "Name":"RecCenter",
       "Description":"A social hub to meet and mingle with friends new and old.",
-      "CreatorPlayerId":2,
+      "CreatorPlayerId":1,
       "ImageName":"ActivityRecCenter.png",
       "State":0,
       "Accessibility":1,
@@ -4529,8 +4529,8 @@
         "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[4229625709],
-    "Hosts":[],
+    "CoOwners":[],
+    "Hosts":[4229625709],
     "CheerCount":1,
     "FavoriteCount":1,
     "VisitCount":1,
